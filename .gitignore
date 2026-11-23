@@ -1,0 +1,10 @@
+.venv/
+venv/
+.vs/
+__pycache__/
+*.py[cod]
+temp/
+Animations/
+.env
+.env.*
+!.env.example
